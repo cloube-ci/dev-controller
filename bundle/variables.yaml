@@ -1,0 +1,4 @@
+variables:
+- team: cloube-ci
+- admin-user: GOLGOT352-admin
+- manager-user: GOLGOT352
